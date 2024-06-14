@@ -1,0 +1,14 @@
+.logo{
+    color: brown;
+    background-color: aqua;
+
+}
+.logo {
+    font-size: 3rem;
+    color: #F8F4EA;
+    font-weight: 600;
+    cursor: default;
+}
+h1{
+    color: red;
+}
